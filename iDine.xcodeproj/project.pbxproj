@@ -18,6 +18,7 @@
 		68F360972C7E1A7200D4B75E /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F360952C7E1A7200D4B75E /* Menu.swift */; };
 		68F360982C7E1A7200D4B75E /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F360962C7E1A7200D4B75E /* Order.swift */; };
 		68F3609A2C7E1A8200D4B75E /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 68F360992C7E1A8200D4B75E /* menu.json */; };
+		68F3609C2C7E231F00D4B75E /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F3609B2C7E231F00D4B75E /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		68F360952C7E1A7200D4B75E /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../../../Downloads/idine/Menu.swift; sourceTree = "<group>"; };
 		68F360962C7E1A7200D4B75E /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Order.swift; path = ../../../../../Downloads/idine/Order.swift; sourceTree = "<group>"; };
 		68F360992C7E1A8200D4B75E /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = menu.json; path = ../../../../../Downloads/idine/menu.json; sourceTree = "<group>"; };
+		68F3609B2C7E231F00D4B75E /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			children = (
 				68F360682C7CD12800D4B75E /* iDineApp.swift */,
 				68F3606A2C7CD12800D4B75E /* ContentView.swift */,
+				68F3609B2C7E231F00D4B75E /* ItemRow.swift */,
 				68F360932C7E1A4900D4B75E /* Helper.swift */,
 				68F360952C7E1A7200D4B75E /* Menu.swift */,
 				68F360962C7E1A7200D4B75E /* Order.swift */,
@@ -275,6 +278,7 @@
 				68F3606B2C7CD12800D4B75E /* ContentView.swift in Sources */,
 				68F360692C7CD12800D4B75E /* iDineApp.swift in Sources */,
 				68F360982C7E1A7200D4B75E /* Order.swift in Sources */,
+				68F3609C2C7E231F00D4B75E /* ItemRow.swift in Sources */,
 				68F360972C7E1A7200D4B75E /* Menu.swift in Sources */,
 				68F360942C7E1A4900D4B75E /* Helper.swift in Sources */,
 			);
