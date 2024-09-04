@@ -22,6 +22,7 @@
 		68F3609E2C82016500D4B75E /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F3609D2C82016500D4B75E /* ItemDetail.swift */; };
 		68F360A02C8758CB00D4B75E /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F3609F2C8758CB00D4B75E /* OrderView.swift */; };
 		68F360A22C88A57300D4B75E /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F360A12C88A57300D4B75E /* MainView.swift */; };
+		68F360A42C88A84D00D4B75E /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F360A32C88A84C00D4B75E /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		68F3609D2C82016500D4B75E /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		68F3609F2C8758CB00D4B75E /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		68F360A12C88A57300D4B75E /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		68F360A32C88A84C00D4B75E /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				68F3609D2C82016500D4B75E /* ItemDetail.swift */,
 				68F3609F2C8758CB00D4B75E /* OrderView.swift */,
 				68F360A12C88A57300D4B75E /* MainView.swift */,
+				68F360A32C88A84C00D4B75E /* CheckoutView.swift */,
 				68F360932C7E1A4900D4B75E /* Helper.swift */,
 				68F360952C7E1A7200D4B75E /* Menu.swift */,
 				68F360962C7E1A7200D4B75E /* Order.swift */,
@@ -286,6 +289,7 @@
 			files = (
 				68F3609E2C82016500D4B75E /* ItemDetail.swift in Sources */,
 				68F360A22C88A57300D4B75E /* MainView.swift in Sources */,
+				68F360A42C88A84D00D4B75E /* CheckoutView.swift in Sources */,
 				68F360A02C8758CB00D4B75E /* OrderView.swift in Sources */,
 				68F3606B2C7CD12800D4B75E /* ContentView.swift in Sources */,
 				68F360692C7CD12800D4B75E /* iDineApp.swift in Sources */,
